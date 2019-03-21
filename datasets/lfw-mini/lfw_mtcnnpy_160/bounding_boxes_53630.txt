@@ -1,0 +1,2 @@
+./datasets/lfw-mini/lfw_mtcnnpy_160/Xiaochu/Chenxiaochun_0001.png 51 47 239 287
+./datasets/lfw-mini/lfw_mtcnnpy_160/Xiaochu/Chenxiaochun_0002.png 119 9 318 260
